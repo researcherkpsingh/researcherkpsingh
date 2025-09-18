@@ -4,10 +4,13 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 MCA student passionate about coding and problem-solving  
+- 🎓 Passionate about coding and problem-solving Data Structures and Algorithms, C/C++, Competitive Programming
+HTML
+Database Management System
+C# for Programming  
 - 💻 I love working with **Python, C, Web Development**  
-- 🌱 Currently learning **Full Stack Development**  
-- ✨ Interested in Open Source & building real-world projects  
+- 🌱 Currently Working on **IOT, AIML, Healthcare Projects**  
+- ✨ Interested in building real-world projects  
 
 ---
 
