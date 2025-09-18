@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshetrapal Singh</h1>
-<h3 align="center">MCA Student | Aspiring Software Developer | Passionate Coder</h3>
+<h3 align="center">Tech |  Software Developer | Passionate Coder</h3>
 
 ---
 
