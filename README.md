@@ -68,7 +68,7 @@
     <div class="avatar" aria-hidden="true">KS</div>
 
     <div class="content">
-      <h1>👋 Hi, I'm <strong>Kshetrapal Singh</strong></h1>
+      <h1>?? Hi, I'm <strong>Kshetrapal Singh</strong></h1>
       <h2>Software Developer • Tech Educator • Passionate Coder</h2>
 
       <p class="lead">I build clean, efficient, and scalable applications — currently exploring <strong>AI & Deep Learning</strong>, full-stack engineering, and open-source contributions. I enjoy turning complex problems into elegant solutions.</p>
@@ -82,8 +82,8 @@
       </div>
 
       <div class="actions">
-        <a class="btn btn-primary" href="https://github.com/your-github-url" target="_blank" rel="noopener">⭐ Star / Follow</a>
-        <a class="btn btn-outline" href="mailto:your-email@example.com">✉️ Email Me</a>
+        <a class="btn btn-primary" href="https://github.com/your-github-url" target="_blank" rel="noopener">? Star / Follow</a>
+        <a class="btn btn-outline" href="mailto:your-email@example.com">?? Email Me</a>
 
         <div class="socials" aria-hidden="true">
           <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">in</a>
@@ -94,10 +94,6 @@
 
       <div class="accent-line" aria-hidden="true"></div>
     </div>
-
-  </main>
-</body>
-</html>
 
 ---
 
@@ -144,3 +140,6 @@ C# for Programming
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>
+ </main>
+</body>
+</html>
